@@ -1,6 +1,6 @@
 # データセット
-./day4/aclImdb/
-./day4/aclImdb_v1.tar.gz
+aclImdb/
+*.tar.gz
 
 # 仮想環境
 .venv/
